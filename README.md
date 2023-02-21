@@ -1,7 +1,7 @@
-Heyyyyyy, I’m tommy :)
+Hey, I’m Tommykins27 :)
 I've been coding in python for around 6 years now from basic programs to more complicated projects.
 My main intrests in CS are cybersecurity and machine learning although i am always happy to talk to anyone about anything :)
-Im currently trying to learn R and am working on my ternary (3 bit) computer emulation project as well as exploring ideas for making a graph based esolang. 
+Im currently exploring ADT's and churning out as many as I can (some silly some sensible), the aim is to replace all primitive data types in python with more... esoteric ones, and then writing a full program using all of them. 
 
 <!---
 G7itch/G7itch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
