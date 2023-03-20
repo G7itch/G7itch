@@ -10,7 +10,7 @@ Feel free to request that i make something - it will hopefully make me less bore
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=G7itch&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=G7itch&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G7itch&hide=Cython,C++,Powershell,C,Shell,Nu,C++,Nix&layout=compact&theme=vision-friendly-dark&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 <!---
